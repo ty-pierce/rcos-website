@@ -1,0 +1,17 @@
+h1 {
+    font-family: Arial;
+    color: blue;
+}
+
+#otherh1{
+    color:hotpink;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.list{
+    color:rgb(176, 47, 47);
+}
+
+body{
+    background-color:aquamarine;
+}
